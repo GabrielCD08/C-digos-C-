@@ -1,2 +1,2 @@
-# C-digos-C-
-Os meus projetos e estudos em C#.
+# C# codes
+My  projects and studies made in C#
