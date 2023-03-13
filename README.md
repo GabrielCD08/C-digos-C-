@@ -1,2 +1,2 @@
 # C# codes
-My  projects and studies made in C#
+My studies made in C#
