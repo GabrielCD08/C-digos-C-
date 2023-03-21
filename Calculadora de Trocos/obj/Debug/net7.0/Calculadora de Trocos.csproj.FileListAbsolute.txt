@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\Calculadora de Trocos\bin\Debug\net7.0\Calculadora de Trocos.exe
+C:\Users\Gabriel\Documents\Calculadora de Trocos\bin\Debug\net7.0\Calculadora de Trocos.deps.json
+C:\Users\Gabriel\Documents\Calculadora de Trocos\bin\Debug\net7.0\Calculadora de Trocos.runtimeconfig.json
+C:\Users\Gabriel\Documents\Calculadora de Trocos\bin\Debug\net7.0\Calculadora de Trocos.dll
+C:\Users\Gabriel\Documents\Calculadora de Trocos\bin\Debug\net7.0\Calculadora de Trocos.pdb
+C:\Users\Gabriel\Documents\Calculadora de Trocos\obj\Debug\net7.0\Calculadora de Trocos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Calculadora de Trocos\obj\Debug\net7.0\Calculadora de Trocos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Calculadora de Trocos\obj\Debug\net7.0\Calculadora de Trocos.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Calculadora de Trocos\obj\Debug\net7.0\Calculadora de Trocos.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Calculadora de Trocos\obj\Debug\net7.0\Calculadora de Trocos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Calculadora de Trocos\obj\Debug\net7.0\Calculadora de Trocos.dll
+C:\Users\Gabriel\Documents\Calculadora de Trocos\obj\Debug\net7.0\refint\Calculadora de Trocos.dll
+C:\Users\Gabriel\Documents\Calculadora de Trocos\obj\Debug\net7.0\Calculadora de Trocos.pdb
+C:\Users\Gabriel\Documents\Calculadora de Trocos\obj\Debug\net7.0\Calculadora de Trocos.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Calculadora de Trocos\obj\Debug\net7.0\ref\Calculadora de Trocos.dll
