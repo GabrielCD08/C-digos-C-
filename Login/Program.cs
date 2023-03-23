@@ -31,6 +31,7 @@
             {
             Console.WriteLine("Usuário ou senha são inválidos");
             }
+            Console.Readkey();
         }
         else if (var == 3)
         {
