@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\ChatBot\bin\Debug\net7.0\ChatBot.exe
+C:\Users\Gabriel\Documents\ChatBot\bin\Debug\net7.0\ChatBot.deps.json
+C:\Users\Gabriel\Documents\ChatBot\bin\Debug\net7.0\ChatBot.runtimeconfig.json
+C:\Users\Gabriel\Documents\ChatBot\bin\Debug\net7.0\ChatBot.dll
+C:\Users\Gabriel\Documents\ChatBot\bin\Debug\net7.0\ChatBot.pdb
+C:\Users\Gabriel\Documents\ChatBot\obj\Debug\net7.0\ChatBot.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\ChatBot\obj\Debug\net7.0\ChatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\ChatBot\obj\Debug\net7.0\ChatBot.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\ChatBot\obj\Debug\net7.0\ChatBot.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\ChatBot\obj\Debug\net7.0\ChatBot.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\ChatBot\obj\Debug\net7.0\ChatBot.dll
+C:\Users\Gabriel\Documents\ChatBot\obj\Debug\net7.0\refint\ChatBot.dll
+C:\Users\Gabriel\Documents\ChatBot\obj\Debug\net7.0\ChatBot.pdb
+C:\Users\Gabriel\Documents\ChatBot\obj\Debug\net7.0\ChatBot.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\ChatBot\obj\Debug\net7.0\ref\ChatBot.dll
